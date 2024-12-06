@@ -1,0 +1,7 @@
+
+.lupita{
+    transition: all 0.35;
+}
+.lupita:hover {
+    transform: scale(1.5);
+}
